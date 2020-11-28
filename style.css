@@ -1,0 +1,79 @@
+body{
+    background-image: url("https://data.1freewallpapers.com/detail/ferris-wheel-neon-green.jpg");
+    
+    color:white;
+}
+    
+p .card{
+    color: white;
+}
+.logo {
+    height: 40x;
+    width: 40px;
+}
+
+h2{
+    color:  rgb(208, 208, 211);
+}
+h6{
+    color: rgb(245, 239, 239);
+}
+.card-film {
+    min-height: 450px;
+}
+.text-muted {
+    color: rgb(245, 239, 239)!important;
+}
+
+.card-film .card-body{
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    background-color: rgb(5, 5, 5);
+    border: 2px;
+    
+    
+}
+.card{
+    background-color: rgb(0, 217, 0);
+}
+.cor{
+    background:rgb(0, 217, 0);
+}
+
+.navbar-light .navbar-brand{
+color:black;
+text-align: center;
+font-family: unset;
+font-size: 0.7cm;
+}
+
+.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
+    color :rgb(248, 244, 244);
+}
+/* cor do botões */
+.btn-primary {
+    background-color:rgb(31, 29, 29);
+    border-color: rgb(0, 217, 0);
+}
+.btn-primary:hover {
+    background-color:rgb(0, 217, 0);
+    border-color: rgb(0, 217, 0);
+}
+
+.page-item.active .page-link { 
+    background-color:rgb(31, 29, 29);;
+    border-color: #FFF0F5;
+}
+
+.footer {
+    background-color: rgb(0, 147, 0);
+}
+.footer a{
+    color:black;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: unset;
+    
+}
